@@ -1,4 +1,3 @@
 # testowe
 testowe repozytorium
-po zmianach !!!! 22
-123
+1. testowy prypadek testowy
